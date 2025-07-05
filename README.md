@@ -33,4 +33,5 @@ The SEEQ certification validates proficiency in core and advanced features of th
 
 ---
 
-This certification demonstrates applied knowledge in solving real-world manufacturing and operational challenges using data-driven insights from SEEQ.
+This certification demonstrates applied knowledge in solving real-world manufacturing and operational challenges using data-driven insights from SEEQ. 
+https://nzcontrols.co.nz/seeq/ 
